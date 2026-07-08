@@ -2,8 +2,6 @@
 
 Dokumen ini untuk rekan Web yang akan memanggil API. Berisi semua yang dibutuhkan untuk integrasi.
 
-> ⚠️ **CATATAN CURDEV:** Nama tujuh field di bawah sudah sesuai API dropout nyata, tetapi **tipe data dan nilai contoh masih ilustratif**. Cocokkan dengan `input_spec.json` / API yang benar-benar berjalan sebelum dokumen ini diserahkan ke siswa, agar kontrak sama persis dengan layanan aslinya.
-
 ## Ringkasan
 
 | | |
